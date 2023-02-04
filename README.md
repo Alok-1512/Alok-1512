@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alok Singh</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 
 
 
-- 🔭 I’m currently working on **Clone Website**
+- 🔭 I’m currently working on **Explain My Code**
 
 - 🌱 I’m currently learning **Node.js**
 
