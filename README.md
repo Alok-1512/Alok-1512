@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on **Explain My Code**
+- 🔭 I’m currently working on **Network Me**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **bootstrap tailwind**
+- 💬 Ask me about **frontent development**
 
 - 📫 How to reach me **alok15120803@gmail.com**
 
